@@ -61,4 +61,4 @@ RegisterCommand('distagoff', function()
 end, false)
 
 RegisterKeyMapping("distag2", "Display Player Name Tags.", "keyboard", "h")
-RegisterKeyMapping("distagoff", "Disable Player Name Tags.", "keyboard", "left-alt") --You can change these bind in your FiveM Settings.
+RegisterKeyMapping("distagoff", "Disable Player Name Tags.", "keyboard", "left-alt") --You can change these binds in your FiveM Settings.
