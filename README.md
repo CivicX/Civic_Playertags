@@ -1,7 +1,12 @@
 # Civic_Playertags
 Hello this is a script where you can display Player names as tags by using a key bind and disable the tags with a command.
 
+##Commands##
+/distag2
+/distagoff
 
+##Keybinds##
+H to toggle tags.
 
 ##DEPENDICES##
 
